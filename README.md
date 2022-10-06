@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm  Nitin Tayal </a> </h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Skills:+HTML+CSS+JavaScript%3A)" /></h3>
 
-<img align="right" src="laptop.png" width="300" alt="laptop-image"/>
+<img align="right" src="undraw_Reading_time_re_phf7.png" width="300" alt="laptop-image"/>
 
 * 🌱 Learning React.
 * 🤝 I'm open to collaborating on projects based on Javascript.
